@@ -7,13 +7,13 @@
     **Tel:** +38-095-842-66-61
 2. **About myself:**
 
-I'm 28 years old. I work as an engineer. My goal is to take a course in rsschool!
+    I'm 28 years old. I work as an engineer. My goal is to take a course in rsschool!
 
-*My strengths:
+*My strengths:*
     -attentiveness
     -perseverance
     -fast learner
-3. ***Skills**
+3. ***Skills:***
     +HTML
     +CSS
     +Git/GitHub
