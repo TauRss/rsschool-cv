@@ -5,23 +5,26 @@
     **Discord:** TauRss
 
     **Tel:** +38-095-842-66-61
-    
+
 2. **About myself:**
 
     I'm 28 years old. I work as an engineer. My goal is to take a course in rsschool!
 
-*My strengths:
+    My strengths:
 
-    -attentiveness
-    -perseverance
-    -fast learner
+        attentiveness
+        perseverance
+        fast learner
 
 3. ***Skills:**
 
-    +HTML
-    +CSS
-    +Git/GitHub
-    +vscode
+    HTML
+
+    CSS
+
+    Git/GitHub
+
+    vscode
 
 4. **Code example:**
 
@@ -46,8 +49,10 @@ No experience in IT
     
 "Donetsk National University of Economics and Trade named Mikhail Tugan-Baranovsky"
 
-7. ***Languages**
+7. **Languages**
 
-    +Russian - native language
-    +Ukrainian - in excellence
-    +English - А1
+    Russian - native language
+
+    Ukrainian - in excellence
+
+    English - А1
